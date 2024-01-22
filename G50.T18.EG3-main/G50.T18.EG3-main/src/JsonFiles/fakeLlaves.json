@@ -1,0 +1,22 @@
+[
+  {
+    "_AccessKey__alg": "SHA-256",
+    "_AccessKey__type": "DS",
+    "_AccessKey__id_document": "12345678Z",
+    "_AccessKey__access_code": "06289798d8e9ad61bae5aebfc6002a02",
+    "_AccessKey__notification_emails": "mail@uc3m.es",
+    "_AccessKey__issued_at": 1625934872.23428,
+    "_AccessKey__expiration_date": 1,
+    "_AccessKey__key": "90287952a608e23014189e8d109406ee83021d5b150531683152260bbc546897"
+  },
+  {
+    "_AccessKey__alg": "SHA-256",
+    "_AccessKey__type": "DS",
+    "_AccessKey__id_document": "05270358T",
+    "_AccessKey__access_code": "304677d3487ce6cbe3bae2e559e9bf91",
+    "_AccessKey__notification_emails": "mail@uc3m.es",
+    "_AccessKey__issued_at": 1625934872.23428,
+    "_AccessKey__expiration_date": 1,
+    "_AccessKey__key": "b38941756411a4edacd1353bcf36f983a0746dc8b8b9743bb44994a098db92e1"
+  }
+]
