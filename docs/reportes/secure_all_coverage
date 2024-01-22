@@ -1,9 +1,0 @@
-Name                                         Stmts   Miss Branch BrPart  Cover
-------------------------------------------------------------------------------
-\secure_all\__init__.py                          4      0      0      0   100%
-\secure_all\access_key.py                       43      8      2      0    82%
-\secure_all\access_management_exception.py      10      1      0      0    90%
-\secure_all\access_manager.py                  157     19     58      7    84%
-\secure_all\access_request.py                   43      9      0      0    79%
-------------------------------------------------------------------------------
-TOTAL                                          257     37     60      7    84%
