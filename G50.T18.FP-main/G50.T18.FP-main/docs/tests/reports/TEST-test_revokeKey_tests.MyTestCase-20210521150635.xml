@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test_revokeKey_tests.MyTestCase-20210521150635" tests="36" file="test_revokeKey_tests.py" time="0.060" timestamp="2021-05-21T15:06:36" failures="0" errors="0" skipped="0">
+	<testcase classname="test_revokeKey_tests.MyTestCase" name="test_pf_comillasdolar" time="0.004" timestamp="2021-05-21T15:06:36"/>
+	<testcase classname="test_revokeKey_tests.MyTestCase" name="test_pf_comillasduplicadas" time="0.000" timestamp="2021-05-21T15:06:36"/>
+	<testcase classname="test_revokeKey_tests.MyTestCase" name="test_pf_datos2duplicados" time="0.004" timestamp="2021-05-21T15:06:36"/>
+	<testcase classname="test_revokeKey_tests.MyTestCase" name="test_pf_duplicado1llave" time="0.004" timestamp="2021-05-21T15:06:36"/>
+	<testcase classname="test_revokeKey_tests.MyTestCase" name="test_pf_duplicado2llave" time="0.000" timestamp="2021-05-21T15:06:36"/>
+	<testcase classname="test_revokeKey_tests.MyTestCase" name="test_pf_estructurakeymala" time="0.004" timestamp="2021-05-21T15:06:36"/>
+	<testcase classname="test_revokeKey_tests.MyTestCase" name="test_pf_etiq3duplicada" time="0.000" timestamp="2021-05-21T15:06:36"/>
+	<testcase classname="test_revokeKey_tests.MyTestCase" name="test_pf_faltaigualador1" time="0.000" timestamp="2021-05-21T15:06:36"/>
+	<testcase classname="test_revokeKey_tests.MyTestCase" name="test_pf_faltakey" time="0.004" timestamp="2021-05-21T15:06:36"/>
+	<testcase classname="test_revokeKey_tests.MyTestCase" name="test_pf_faltallave1" time="0.000" timestamp="2021-05-21T15:06:36"/>
+	<testcase classname="test_revokeKey_tests.MyTestCase" name="test_pf_faltallave2" time="0.000" timestamp="2021-05-21T15:06:36"/>
+	<testcase classname="test_revokeKey_tests.MyTestCase" name="test_pf_faltancomillas" time="0.004" timestamp="2021-05-21T15:06:36"/>
+	<testcase classname="test_revokeKey_tests.MyTestCase" name="test_pf_faltandatos3" time="0.004" timestamp="2021-05-21T15:06:36"/>
+	<testcase classname="test_revokeKey_tests.MyTestCase" name="test_pf_faltarazon" time="0.004" timestamp="2021-05-21T15:06:36"/>
+	<testcase classname="test_revokeKey_tests.MyTestCase" name="test_pf_faltarevocar" time="0.004" timestamp="2021-05-21T15:06:36"/>
+	<testcase classname="test_revokeKey_tests.MyTestCase" name="test_pf_faltaseparador1" time="0.004" timestamp="2021-05-21T15:06:36"/>
+	<testcase classname="test_revokeKey_tests.MyTestCase" name="test_pf_faltavalorkey" time="0.004" timestamp="2021-05-21T15:06:36"/>
+	<testcase classname="test_revokeKey_tests.MyTestCase" name="test_pf_faltavalorrevocar" time="0.004" timestamp="2021-05-21T15:06:36"/>
+	<testcase classname="test_revokeKey_tests.MyTestCase" name="test_pf_igualador1doble" time="0.000" timestamp="2021-05-21T15:06:36"/>
+	<testcase classname="test_revokeKey_tests.MyTestCase" name="test_pf_igualador1dolar" time="0.000" timestamp="2021-05-21T15:06:36"/>
+	<testcase classname="test_revokeKey_tests.MyTestCase" name="test_pf_keymala" time="0.000" timestamp="2021-05-21T15:06:36"/>
+	<testcase classname="test_revokeKey_tests.MyTestCase" name="test_pf_llavedolar1" time="0.000" timestamp="2021-05-21T15:06:36"/>
+	<testcase classname="test_revokeKey_tests.MyTestCase" name="test_pf_llavedolar2" time="0.000" timestamp="2021-05-21T15:06:36"/>
+	<testcase classname="test_revokeKey_tests.MyTestCase" name="test_pf_motivo" time="0.000" timestamp="2021-05-21T15:06:36"/>
+	<testcase classname="test_revokeKey_tests.MyTestCase" name="test_pf_nohaydata" time="0.000" timestamp="2021-05-21T15:06:36"/>
+	<testcase classname="test_revokeKey_tests.MyTestCase" name="test_pf_razonmala" time="0.000" timestamp="2021-05-21T15:06:36"/>
+	<testcase classname="test_revokeKey_tests.MyTestCase" name="test_pf_revocarmalo" time="0.004" timestamp="2021-05-21T15:06:36"/>
+	<testcase classname="test_revokeKey_tests.MyTestCase" name="test_pf_separador1doble" time="0.000" timestamp="2021-05-21T15:06:36"/>
+	<testcase classname="test_revokeKey_tests.MyTestCase" name="test_pf_separador1dolar" time="0.004" timestamp="2021-05-21T15:06:36"/>
+	<testcase classname="test_revokeKey_tests.MyTestCase" name="test_pf_valido1" time="0.004" timestamp="2021-05-21T15:06:36"/>
+	<testcase classname="test_revokeKey_tests.MyTestCase" name="test_pf_valido2" time="0.000" timestamp="2021-05-21T15:06:36"/>
+	<testcase classname="test_revokeKey_tests.MyTestCase" name="test_pf_valor1duplicado" time="0.000" timestamp="2021-05-21T15:06:36"/>
+	<testcase classname="test_revokeKey_tests.MyTestCase" name="test_pf_valor2borrados" time="0.000" timestamp="2021-05-21T15:06:36"/>
+	<testcase classname="test_revokeKey_tests.MyTestCase" name="test_pf_valor3modificados" time="0.000" timestamp="2021-05-21T15:06:36"/>
+	<testcase classname="test_revokeKey_tests.MyTestCase" name="test_pf_valorkeymalexp" time="0.000" timestamp="2021-05-21T15:06:36"/>
+	<testcase classname="test_revokeKey_tests.MyTestCase" name="test_pf_valorrevocarmalo" time="0.000" timestamp="2021-05-21T15:06:36"/>
+</testsuite>

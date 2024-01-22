@@ -1,0 +1,72 @@
+running clean
+'build\lib' does not exist -- can't clean it
+'build\bdist.win-amd64' does not exist -- can't clean it
+'build\scripts-3.8' does not exist -- can't clean it
+running sdist
+running egg_info
+creating secure_all.egg-info
+writing secure_all.egg-info\PKG-INFO
+writing dependency_links to secure_all.egg-info\dependency_links.txt
+writing namespace_packages to secure_all.egg-info\namespace_packages.txt
+writing top-level names to secure_all.egg-info\top_level.txt
+writing manifest file 'secure_all.egg-info\SOURCES.txt'
+reading manifest file 'secure_all.egg-info\SOURCES.txt'
+writing manifest file 'secure_all.egg-info\SOURCES.txt'
+warning: sdist: standard file not found: should have one of README, README.rst, README.txt, README.md
+
+running check
+warning: Check: missing required meta-data: url
+
+warning: Check: missing meta-data: either (author and author_email) or (maintainer and maintainer_email) must be supplied
+
+creating secure_all-1.0.dev0
+creating secure_all-1.0.dev0\secure_all
+creating secure_all-1.0.dev0\secure_all.egg-info
+creating secure_all-1.0.dev0\secure_all\cfg
+creating secure_all-1.0.dev0\secure_all\data
+creating secure_all-1.0.dev0\secure_all\data\attributes
+creating secure_all-1.0.dev0\secure_all\exception
+creating secure_all-1.0.dev0\secure_all\parser
+creating secure_all-1.0.dev0\secure_all\storage
+copying files to secure_all-1.0.dev0...
+copying setup.py -> secure_all-1.0.dev0
+copying secure_all\__init__.py -> secure_all-1.0.dev0\secure_all
+copying secure_all\access_manager.py -> secure_all-1.0.dev0\secure_all
+copying secure_all.egg-info\PKG-INFO -> secure_all-1.0.dev0\secure_all.egg-info
+copying secure_all.egg-info\SOURCES.txt -> secure_all-1.0.dev0\secure_all.egg-info
+copying secure_all.egg-info\dependency_links.txt -> secure_all-1.0.dev0\secure_all.egg-info
+copying secure_all.egg-info\namespace_packages.txt -> secure_all-1.0.dev0\secure_all.egg-info
+copying secure_all.egg-info\top_level.txt -> secure_all-1.0.dev0\secure_all.egg-info
+copying secure_all.egg-info\zip-safe -> secure_all-1.0.dev0\secure_all.egg-info
+copying secure_all\cfg\__init__.py -> secure_all-1.0.dev0\secure_all\cfg
+copying secure_all\cfg\access_manager_config.py -> secure_all-1.0.dev0\secure_all\cfg
+copying secure_all\data\KeyTime.py -> secure_all-1.0.dev0\secure_all\data
+copying secure_all\data\__init__.py -> secure_all-1.0.dev0\secure_all\data
+copying secure_all\data\access_key.py -> secure_all-1.0.dev0\secure_all\data
+copying secure_all\data\access_request.py -> secure_all-1.0.dev0\secure_all\data
+copying secure_all\data\access_revoke.py -> secure_all-1.0.dev0\secure_all\data
+copying secure_all\data\attributes\__init__.py -> secure_all-1.0.dev0\secure_all\data\attributes
+copying secure_all\data\attributes\attribute.py -> secure_all-1.0.dev0\secure_all\data\attributes
+copying secure_all\data\attributes\attribute_access_code.py -> secure_all-1.0.dev0\secure_all\data\attributes
+copying secure_all\data\attributes\attribute_access_type.py -> secure_all-1.0.dev0\secure_all\data\attributes
+copying secure_all\data\attributes\attribute_dni.py -> secure_all-1.0.dev0\secure_all\data\attributes
+copying secure_all\data\attributes\attribute_email.py -> secure_all-1.0.dev0\secure_all\data\attributes
+copying secure_all\data\attributes\attribute_email_list.py -> secure_all-1.0.dev0\secure_all\data\attributes
+copying secure_all\data\attributes\attribute_full_name.py -> secure_all-1.0.dev0\secure_all\data\attributes
+copying secure_all\data\attributes\attribute_key.py -> secure_all-1.0.dev0\secure_all\data\attributes
+copying secure_all\data\attributes\attribute_motivo.py -> secure_all-1.0.dev0\secure_all\data\attributes
+copying secure_all\exception\__init__.py -> secure_all-1.0.dev0\secure_all\exception
+copying secure_all\exception\access_management_exception.py -> secure_all-1.0.dev0\secure_all\exception
+copying secure_all\parser\__init__.py -> secure_all-1.0.dev0\secure_all\parser
+copying secure_all\parser\json_parser.py -> secure_all-1.0.dev0\secure_all\parser
+copying secure_all\parser\key_json_parser.py -> secure_all-1.0.dev0\secure_all\parser
+copying secure_all\parser\revoke_json_parser.py -> secure_all-1.0.dev0\secure_all\parser
+copying secure_all\storage\KeyTimeStore.py -> secure_all-1.0.dev0\secure_all\storage
+copying secure_all\storage\__init__.py -> secure_all-1.0.dev0\secure_all\storage
+copying secure_all\storage\json_store.py -> secure_all-1.0.dev0\secure_all\storage
+copying secure_all\storage\keys_json_store.py -> secure_all-1.0.dev0\secure_all\storage
+copying secure_all\storage\requests_json_store.py -> secure_all-1.0.dev0\secure_all\storage
+Writing secure_all-1.0.dev0\setup.cfg
+creating dist
+Creating tar archive
+removing 'secure_all-1.0.dev0' (and everything under it)

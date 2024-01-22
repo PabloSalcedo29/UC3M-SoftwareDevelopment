@@ -1,0 +1,137 @@
+running clean
+'build\lib' does not exist -- can't clean it
+'build\bdist.win-amd64' does not exist -- can't clean it
+'build\scripts-3.8' does not exist -- can't clean it
+running bdist_wheel
+running build
+running build_py
+creating build
+creating build\lib
+creating build\lib\secure_all
+copying secure_all\access_manager.py -> build\lib\secure_all
+copying secure_all\__init__.py -> build\lib\secure_all
+creating build\lib\secure_all\cfg
+copying secure_all\cfg\access_manager_config.py -> build\lib\secure_all\cfg
+copying secure_all\cfg\__init__.py -> build\lib\secure_all\cfg
+creating build\lib\secure_all\data
+copying secure_all\data\access_key.py -> build\lib\secure_all\data
+copying secure_all\data\access_request.py -> build\lib\secure_all\data
+copying secure_all\data\access_revoke.py -> build\lib\secure_all\data
+copying secure_all\data\KeyTime.py -> build\lib\secure_all\data
+copying secure_all\data\__init__.py -> build\lib\secure_all\data
+creating build\lib\secure_all\data\attributes
+copying secure_all\data\attributes\attribute.py -> build\lib\secure_all\data\attributes
+copying secure_all\data\attributes\attribute_access_code.py -> build\lib\secure_all\data\attributes
+copying secure_all\data\attributes\attribute_access_type.py -> build\lib\secure_all\data\attributes
+copying secure_all\data\attributes\attribute_dni.py -> build\lib\secure_all\data\attributes
+copying secure_all\data\attributes\attribute_email.py -> build\lib\secure_all\data\attributes
+copying secure_all\data\attributes\attribute_email_list.py -> build\lib\secure_all\data\attributes
+copying secure_all\data\attributes\attribute_full_name.py -> build\lib\secure_all\data\attributes
+copying secure_all\data\attributes\attribute_key.py -> build\lib\secure_all\data\attributes
+copying secure_all\data\attributes\attribute_motivo.py -> build\lib\secure_all\data\attributes
+copying secure_all\data\attributes\__init__.py -> build\lib\secure_all\data\attributes
+creating build\lib\secure_all\exception
+copying secure_all\exception\access_management_exception.py -> build\lib\secure_all\exception
+copying secure_all\exception\__init__.py -> build\lib\secure_all\exception
+creating build\lib\secure_all\parser
+copying secure_all\parser\json_parser.py -> build\lib\secure_all\parser
+copying secure_all\parser\key_json_parser.py -> build\lib\secure_all\parser
+copying secure_all\parser\revoke_json_parser.py -> build\lib\secure_all\parser
+copying secure_all\parser\__init__.py -> build\lib\secure_all\parser
+creating build\lib\secure_all\storage
+copying secure_all\storage\json_store.py -> build\lib\secure_all\storage
+copying secure_all\storage\keys_json_store.py -> build\lib\secure_all\storage
+copying secure_all\storage\KeyTimeStore.py -> build\lib\secure_all\storage
+copying secure_all\storage\requests_json_store.py -> build\lib\secure_all\storage
+copying secure_all\storage\__init__.py -> build\lib\secure_all\storage
+installing to build\bdist.win-amd64\wheel
+running install
+running install_lib
+creating build\bdist.win-amd64
+creating build\bdist.win-amd64\wheel
+creating build\bdist.win-amd64\wheel\secure_all
+copying build\lib\secure_all\access_manager.py -> build\bdist.win-amd64\wheel\.\secure_all
+creating build\bdist.win-amd64\wheel\secure_all\cfg
+copying build\lib\secure_all\cfg\access_manager_config.py -> build\bdist.win-amd64\wheel\.\secure_all\cfg
+copying build\lib\secure_all\cfg\__init__.py -> build\bdist.win-amd64\wheel\.\secure_all\cfg
+creating build\bdist.win-amd64\wheel\secure_all\data
+copying build\lib\secure_all\data\access_key.py -> build\bdist.win-amd64\wheel\.\secure_all\data
+copying build\lib\secure_all\data\access_request.py -> build\bdist.win-amd64\wheel\.\secure_all\data
+copying build\lib\secure_all\data\access_revoke.py -> build\bdist.win-amd64\wheel\.\secure_all\data
+creating build\bdist.win-amd64\wheel\secure_all\data\attributes
+copying build\lib\secure_all\data\attributes\attribute.py -> build\bdist.win-amd64\wheel\.\secure_all\data\attributes
+copying build\lib\secure_all\data\attributes\attribute_access_code.py -> build\bdist.win-amd64\wheel\.\secure_all\data\attributes
+copying build\lib\secure_all\data\attributes\attribute_access_type.py -> build\bdist.win-amd64\wheel\.\secure_all\data\attributes
+copying build\lib\secure_all\data\attributes\attribute_dni.py -> build\bdist.win-amd64\wheel\.\secure_all\data\attributes
+copying build\lib\secure_all\data\attributes\attribute_email.py -> build\bdist.win-amd64\wheel\.\secure_all\data\attributes
+copying build\lib\secure_all\data\attributes\attribute_email_list.py -> build\bdist.win-amd64\wheel\.\secure_all\data\attributes
+copying build\lib\secure_all\data\attributes\attribute_full_name.py -> build\bdist.win-amd64\wheel\.\secure_all\data\attributes
+copying build\lib\secure_all\data\attributes\attribute_key.py -> build\bdist.win-amd64\wheel\.\secure_all\data\attributes
+copying build\lib\secure_all\data\attributes\attribute_motivo.py -> build\bdist.win-amd64\wheel\.\secure_all\data\attributes
+copying build\lib\secure_all\data\attributes\__init__.py -> build\bdist.win-amd64\wheel\.\secure_all\data\attributes
+copying build\lib\secure_all\data\KeyTime.py -> build\bdist.win-amd64\wheel\.\secure_all\data
+copying build\lib\secure_all\data\__init__.py -> build\bdist.win-amd64\wheel\.\secure_all\data
+creating build\bdist.win-amd64\wheel\secure_all\exception
+copying build\lib\secure_all\exception\access_management_exception.py -> build\bdist.win-amd64\wheel\.\secure_all\exception
+copying build\lib\secure_all\exception\__init__.py -> build\bdist.win-amd64\wheel\.\secure_all\exception
+creating build\bdist.win-amd64\wheel\secure_all\parser
+copying build\lib\secure_all\parser\json_parser.py -> build\bdist.win-amd64\wheel\.\secure_all\parser
+copying build\lib\secure_all\parser\key_json_parser.py -> build\bdist.win-amd64\wheel\.\secure_all\parser
+copying build\lib\secure_all\parser\revoke_json_parser.py -> build\bdist.win-amd64\wheel\.\secure_all\parser
+copying build\lib\secure_all\parser\__init__.py -> build\bdist.win-amd64\wheel\.\secure_all\parser
+creating build\bdist.win-amd64\wheel\secure_all\storage
+copying build\lib\secure_all\storage\json_store.py -> build\bdist.win-amd64\wheel\.\secure_all\storage
+copying build\lib\secure_all\storage\keys_json_store.py -> build\bdist.win-amd64\wheel\.\secure_all\storage
+copying build\lib\secure_all\storage\KeyTimeStore.py -> build\bdist.win-amd64\wheel\.\secure_all\storage
+copying build\lib\secure_all\storage\requests_json_store.py -> build\bdist.win-amd64\wheel\.\secure_all\storage
+copying build\lib\secure_all\storage\__init__.py -> build\bdist.win-amd64\wheel\.\secure_all\storage
+copying build\lib\secure_all\__init__.py -> build\bdist.win-amd64\wheel\.\secure_all
+running install_egg_info
+running egg_info
+writing secure_all.egg-info\PKG-INFO
+writing dependency_links to secure_all.egg-info\dependency_links.txt
+writing namespace_packages to secure_all.egg-info\namespace_packages.txt
+writing top-level names to secure_all.egg-info\top_level.txt
+reading manifest file 'secure_all.egg-info\SOURCES.txt'
+writing manifest file 'secure_all.egg-info\SOURCES.txt'
+Copying secure_all.egg-info to build\bdist.win-amd64\wheel\.\secure_all-1.0.dev0-py3.8.egg-info
+running install_scripts
+creating build\bdist.win-amd64\wheel\secure_all-1.0.dev0.dist-info\WHEEL
+creating 'dist\secure_all-1.0.dev0-py3-none-any.whl' and adding 'build\bdist.win-amd64\wheel' to it
+adding 'secure_all/__init__.py'
+adding 'secure_all/access_manager.py'
+adding 'secure_all/cfg/__init__.py'
+adding 'secure_all/cfg/access_manager_config.py'
+adding 'secure_all/data/KeyTime.py'
+adding 'secure_all/data/__init__.py'
+adding 'secure_all/data/access_key.py'
+adding 'secure_all/data/access_request.py'
+adding 'secure_all/data/access_revoke.py'
+adding 'secure_all/data/attributes/__init__.py'
+adding 'secure_all/data/attributes/attribute.py'
+adding 'secure_all/data/attributes/attribute_access_code.py'
+adding 'secure_all/data/attributes/attribute_access_type.py'
+adding 'secure_all/data/attributes/attribute_dni.py'
+adding 'secure_all/data/attributes/attribute_email.py'
+adding 'secure_all/data/attributes/attribute_email_list.py'
+adding 'secure_all/data/attributes/attribute_full_name.py'
+adding 'secure_all/data/attributes/attribute_key.py'
+adding 'secure_all/data/attributes/attribute_motivo.py'
+adding 'secure_all/exception/__init__.py'
+adding 'secure_all/exception/access_management_exception.py'
+adding 'secure_all/parser/__init__.py'
+adding 'secure_all/parser/json_parser.py'
+adding 'secure_all/parser/key_json_parser.py'
+adding 'secure_all/parser/revoke_json_parser.py'
+adding 'secure_all/storage/KeyTimeStore.py'
+adding 'secure_all/storage/__init__.py'
+adding 'secure_all/storage/json_store.py'
+adding 'secure_all/storage/keys_json_store.py'
+adding 'secure_all/storage/requests_json_store.py'
+adding 'secure_all-1.0.dev0.dist-info/METADATA'
+adding 'secure_all-1.0.dev0.dist-info/WHEEL'
+adding 'secure_all-1.0.dev0.dist-info/namespace_packages.txt'
+adding 'secure_all-1.0.dev0.dist-info/top_level.txt'
+adding 'secure_all-1.0.dev0.dist-info/zip-safe'
+adding 'secure_all-1.0.dev0.dist-info/RECORD'
+removing build\bdist.win-amd64\wheel
