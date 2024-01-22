@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test_request_access_code_tests.MyTestCase-20210417162203" tests="13" file="test_request_access_code_tests.py" time="0.014" timestamp="2021-04-17T16:22:04" failures="0" errors="0" skipped="0">
+	<testcase classname="test_request_access_code_tests.MyTestCase" name="test_request_access_code_bad_access_type" time="0.001" timestamp="2021-04-17T16:22:04"/>
+	<testcase classname="test_request_access_code_tests.MyTestCase" name="test_request_access_code_bad_dni" time="0.001" timestamp="2021-04-17T16:22:04"/>
+	<testcase classname="test_request_access_code_tests.MyTestCase" name="test_request_access_code_bad_email" time="0.001" timestamp="2021-04-17T16:22:04"/>
+	<testcase classname="test_request_access_code_tests.MyTestCase" name="test_request_access_code_bad_guest_days" time="0.001" timestamp="2021-04-17T16:22:04"/>
+	<testcase classname="test_request_access_code_tests.MyTestCase" name="test_request_access_code_bad_name_surname" time="0.001" timestamp="2021-04-17T16:22:04"/>
+	<testcase classname="test_request_access_code_tests.MyTestCase" name="test_request_access_code_bad_resident_days" time="0.001" timestamp="2021-04-17T16:22:04"/>
+	<testcase classname="test_request_access_code_tests.MyTestCase" name="test_request_access_code_dni_0_letters" time="0.001" timestamp="2021-04-17T16:22:04"/>
+	<testcase classname="test_request_access_code_tests.MyTestCase" name="test_request_access_code_dni_10_length" time="0.001" timestamp="2021-04-17T16:22:04"/>
+	<testcase classname="test_request_access_code_tests.MyTestCase" name="test_request_access_code_dni_2_letters" time="0.001" timestamp="2021-04-17T16:22:04"/>
+	<testcase classname="test_request_access_code_tests.MyTestCase" name="test_request_access_code_dni_7_digits" time="0.000" timestamp="2021-04-17T16:22:04"/>
+	<testcase classname="test_request_access_code_tests.MyTestCase" name="test_request_access_code_dni_letter_in_first" time="0.001" timestamp="2021-04-17T16:22:04"/>
+	<testcase classname="test_request_access_code_tests.MyTestCase" name="test_request_access_code_good" time="0.002" timestamp="2021-04-17T16:22:04"/>
+	<testcase classname="test_request_access_code_tests.MyTestCase" name="test_request_access_code_good2" time="0.002" timestamp="2021-04-17T16:22:04"/>
+</testsuite>

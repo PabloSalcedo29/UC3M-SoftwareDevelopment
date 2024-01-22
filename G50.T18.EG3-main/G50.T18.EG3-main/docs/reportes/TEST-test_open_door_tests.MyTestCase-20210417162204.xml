@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test_open_door_tests.MyTestCase-20210417162204" tests="5" file="test_open_door_tests.py" time="0.006" timestamp="2021-04-17T16:22:05" failures="0" errors="0" skipped="0">
+	<testcase classname="test_open_door_tests.MyTestCase" name="test_open_door" time="0.002" timestamp="2021-04-17T16:22:05"/>
+	<testcase classname="test_open_door_tests.MyTestCase" name="test_open_door_bad" time="0.001" timestamp="2021-04-17T16:22:05"/>
+	<testcase classname="test_open_door_tests.MyTestCase" name="test_open_door_fake_one" time="0.001" timestamp="2021-04-17T16:22:05"/>
+	<testcase classname="test_open_door_tests.MyTestCase" name="test_open_door_resident" time="0.001" timestamp="2021-04-17T16:22:05"/>
+	<testcase classname="test_open_door_tests.MyTestCase" name="test_open_door_wrong_key" time="0.001" timestamp="2021-04-17T16:22:05"/>
+</testsuite>
